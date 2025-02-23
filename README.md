@@ -45,14 +45,14 @@ cd InsightsDaily_blogSite
 cd api
 npm install
 cp .env.example .env  # Add your database credentials
-npm run dev
+npm run start
 ```
 
 ### Frontend Setup
 ```sh
 cd client
 npm install
-npm run dev
+npm run start
 ```
 
 ## Project Objective
